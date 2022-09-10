@@ -1,0 +1,20 @@
+{
+  "name": "cutassistant",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CATeam-dev/CutAssistant",
+  "author": "CATeam-dev",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "@types/node": "^18.7.16",
+    "@typescript-eslint/eslint-plugin": "^5.30.5",
+    "@typescript-eslint/parser": "^5.30.5",
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "typescript": "^4.8.3"
+  }
+}
